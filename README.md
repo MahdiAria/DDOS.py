@@ -1,9 +1,3 @@
-["My First Project"]
-
-
-# ("Written by Python")
-
-
 # Created By : [Mahdi Aria]
 
 
