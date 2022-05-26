@@ -41,8 +41,6 @@
 
 * 'ls'
 
-* 'cd My-Project'
-
 * 'cd DDOS'
 
 * 'python3 DS.py'
